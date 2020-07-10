@@ -7,7 +7,7 @@ packages:
       name: add_cart_parabola
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.0.2"
+    version: "0.0.6"
   archive:
     dependency: transitive
     description:
